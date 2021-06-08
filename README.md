@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krishna-Murari-02
-- 👀 I’m interested in Programmin
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me km1064449@gmail.com
